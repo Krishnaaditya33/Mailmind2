@@ -1,4 +1,4 @@
-use client";
+"use client";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Stars, Text } from "@react-three/drei";
 import { Suspense } from "react";
